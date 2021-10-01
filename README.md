@@ -1,10 +1,13 @@
 <div align="center">
   
   # BadSoldier33
+  ### Hello!
+  
+  My website:  
   https://www.badsoldier33.ml  
   
   <a href="github.com/badsoldier33"><img src="https://img.shields.io/github/followers/BadSoldier33?color=cyan&label=Followers&style=flat-square" border="0"></a>
-<a href="github.com/badsoldier33"><img src="https://img.shields.io/badge/Level-Noob-green?style=flat-square" border="0"></a>
+<a href="github.com/badsoldier33"><img src="https://img.shields.io/badge/Level-Noob-green?style=flat-square" border="0"></a> 
 
   
   
@@ -16,8 +19,8 @@ Hi!
 My name is Kacper. I'm electonics student and hobbyist programmer.  
 
 
-## 🟢 Languages and skills
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
+## 🟢 Languages
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
 
 ## 🔵 Stats
 
