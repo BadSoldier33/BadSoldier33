@@ -3,8 +3,7 @@
   # BadSoldier33
   ### Hello!
   
-  My website:  
-  https://www.badsoldier33.ml  
+  
   
   <a href="github.com/badsoldier33"><img src="https://img.shields.io/github/followers/BadSoldier33?color=cyan&label=Followers&style=flat-square" border="0"></a>
 <a href="github.com/badsoldier33"><img src="https://img.shields.io/badge/Level-Noob-green?style=flat-square" border="0"></a> 
